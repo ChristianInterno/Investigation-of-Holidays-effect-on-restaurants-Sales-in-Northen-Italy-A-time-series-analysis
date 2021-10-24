@@ -1,0 +1,2 @@
+# Investigation-of-Holidays-effect-on-restaurants-Sales-in-Northen-Italy-A-time-series-analysis
+How do #holidays influence the sales of northern Italy's inland-located restaurants? Which component -i.e. weekly #seasonality, etc.- of the #timeseries is the most important for #forecasting? Is it possible to prevent extreme losses on #revenues or to forecast #blackswan events considering #Covid19 pandemic?
